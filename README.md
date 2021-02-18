@@ -24,3 +24,6 @@ A list of videos, books and paper about Mixed‑integer nonlinear programming.
 * [FOSSEE Optimization Toolbox](https://scilab.in/fossee-scilab-toolbox/optimization-toolbox): Package for Scilab that offers several optimization routines (linear optimization, integer linear optimization, unconstrained optimization, bounded optimization and constrained optimization). The function calls and outputs are similar to those available in Matlab. Free!!!
 * [Optimization Toolbox](https://nl.mathworks.com/products/optimization.html): Package for Matlab with several optimization routines. You need a licence for matlab and another specific one for the package.
 * [IBM CPLEX Optimizer](https://www.ibm.com/analytics/cplex-optimizer): Paid module, but very good.
+* [GAMS](https://www.gams.com/)
+
+
