@@ -9,7 +9,7 @@ A list of videos, books and paper about Mixed‑integer nonlinear programming.
 | [Mixed Integer Nonlinear Programming](https://www.youtube.com/watch?v=BRe8855C4BA) | Ksenia Bestuzheva | 2020 | Good introduction to MINLP (a little background noise) |
 | [Solving Mixed-Integer Nonlinear Programming (MINLP) Problems]() | Marcel Hunting | 2016 |             |
 | [Lec 28: MATLAB inbuilt functions: Nonlinear & Mixed Integer Nonlinear Programming](https://www.youtube.com/watch?v=my-J6YsMTSQ)  | Prakash Kotecha | 2020 | Discuss the built-in functions in the matlab optimization toolbox that provides MILP and MINLP |
-| [SciPy Beginner's Guide for Optimization](https://www.youtube.com/watch?v=cXHvC_FGx24) | | 2016 | Small tutorial using Scipy.Optimize.Minimize for solving a nonlinear objective function and nonlinear constraints |
+| [SciPy Beginner's Guide for Optimization](https://www.youtube.com/watch?v=cXHvC_FGx24) | John Hedengren | 2016 | Small tutorial using Scipy.Optimize.Minimize for solving a nonlinear objective function and nonlinear constraints |
 
 ## Papers and books
 
