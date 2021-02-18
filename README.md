@@ -17,3 +17,10 @@ A list of videos, books and paper about Mixed‑integer nonlinear programming.
 * Lee, J., & Leyffer, S. (Eds.). (2011). Mixed integer nonlinear programming (Vol. 154). Springer Science & Business Media.
 * Hemmecke, R., Köppe, M., Lee, J., & Weismantel, R. (2010). [Nonlinear integer programming](https://arxiv.org/pdf/0906.5171). In 50 Years of Integer Programming 1958-2008 (pp. 561-618). Springer, Berlin, Heidelberg.
 * Bussieck, M. R., & Pruessner, A. (2003). [Mixed-integer nonlinear programming](https://www.mat.univie.ac.at/~neum/glopt/mss/BusP03.pdf). SIAG/OPT Newsletter: Views & News, 14(1), 19-22.
+
+
+## Software
+
+* [FOSSEE Optimization Toolbox](https://scilab.in/fossee-scilab-toolbox/optimization-toolbox): Package for Scilab that offers several optimization routines (linear optimization, integer linear optimization, unconstrained optimization, bounded optimization and constrained optimization). The function calls and outputs are similar to those available in Matlab. Free!!!
+* [Optimization Toolbox](https://nl.mathworks.com/products/optimization.html): Package for Matlab with several optimization routines. You need a licence for matlab and another specific one for the package.
+* [IBM CPLEX Optimizer](https://www.ibm.com/analytics/cplex-optimizer): Paid module, but very good.
